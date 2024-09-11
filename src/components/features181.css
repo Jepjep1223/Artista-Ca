@@ -1,0 +1,100 @@
+.features181-layout349 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+.features181-max-width {
+  gap: var(--dl-space-space-fiveunits);
+  display: flex;
+  align-items: center;
+}
+.features181-content1 {
+  gap: var(--dl-space-space-oneandhalfunits);
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.features181-section-title1 {
+  gap: var(--dl-space-space-oneandhalfunits);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.features181-content2 {
+  gap: var(--dl-space-space-oneandhalfunits);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.features181-section-title2 {
+  flex: 1;
+  width: 50%;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.features181-breadcrumbs {
+  gap: var(--dl-space-space-halfunit);
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+}
+.features181-content3 {
+  gap: var(--dl-space-space-oneandhalfunits);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.features181-author {
+  gap: var(--dl-space-space-halfunit);
+  display: flex;
+}
+.features181-time {
+  gap: var(--dl-space-space-halfunit);
+  display: flex;
+  align-items: center;
+}
+.features181-share-buttons {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  align-items: flex-start;
+}
+.features181-image-container {
+  flex: 1;
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+}
+.features181-text6 {
+  text-align: center;
+}
+@media(max-width: 1200px) {
+  .features181-section-title2 {
+    width: 483px;
+  }
+  .features181-placeholder-image {
+    width: 435px;
+    height: 429px;
+    margin-right: 0px;
+  }
+}
+@media(max-width: 991px) {
+  .features181-max-width {
+    gap: var(--dl-space-space-twounits);
+    flex-direction: column-reverse;
+  }
+  .features181-section-title2 {
+    width: 100%;
+  }
+  .features181-breadcrumbs {
+    flex-direction: row;
+  }
+}
+@media(max-width: 479px) {
+  .features181-content3 {
+    align-items: center;
+  }
+}

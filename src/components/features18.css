@@ -1,0 +1,14 @@
+.features18-layout349 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+@media(max-width: 479px) {
+  .features18-layout349 {
+    height: 1419px;
+    margin-bottom: 59px;
+    padding-right: var(--dl-space-space-unit);
+  }
+}

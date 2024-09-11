@@ -1,0 +1,200 @@
+.artists-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.artists-text100 {
+  display: inline-block;
+}
+.artists-text101 {
+  display: inline-block;
+}
+.artists-text102 {
+  display: inline-block;
+}
+.artists-text103 {
+  display: inline-block;
+}
+.artists-text104 {
+  display: inline-block;
+}
+.artists-text105 {
+  display: inline-block;
+}
+.artists-text106 {
+  display: inline-block;
+}
+.artists-text107 {
+  display: inline-block;
+}
+.artists-text108 {
+  display: inline-block;
+}
+.artists-text109 {
+  display: inline-block;
+}
+.artists-text110 {
+  display: inline-block;
+}
+.artists-text111 {
+  display: inline-block;
+}
+.artists-text116 {
+  display: inline-block;
+  text-align: center;
+}
+.artists-text117 {
+  display: inline-block;
+}
+.artists-text118 {
+  display: inline-block;
+}
+.artists-text119 {
+  display: inline-block;
+}
+.artists-text132 {
+  display: inline-block;
+  text-align: center;
+}
+.artists-text133 {
+  display: inline-block;
+}
+.artists-text134 {
+  display: inline-block;
+}
+.artists-text135 {
+  display: inline-block;
+}
+.artists-text147 {
+  display: inline-block;
+  text-align: center;
+}
+.artists-text148 {
+  display: inline-block;
+}
+.artists-text149 {
+  display: inline-block;
+}
+.artists-text150 {
+  display: inline-block;
+}
+.artists-text155 {
+  display: inline-block;
+  text-align: center;
+}
+.artists-text156 {
+  display: inline-block;
+}
+.artists-text157 {
+  display: inline-block;
+}
+.artists-text158 {
+  display: inline-block;
+}
+.artists-text159 {
+  display: inline-block;
+  text-align: center;
+}
+.artists-text160 {
+  display: inline-block;
+}
+.artists-text161 {
+  display: inline-block;
+}
+.artists-text162 {
+  display: inline-block;
+}
+.artists-text170 {
+  display: inline-block;
+  text-align: center;
+}
+.artists-text171 {
+  display: inline-block;
+}
+.artists-text172 {
+  display: inline-block;
+}
+.artists-text173 {
+  display: inline-block;
+}
+.artists-text174 {
+  display: inline-block;
+  text-align: center;
+}
+.artists-text175 {
+  display: inline-block;
+}
+.artists-text176 {
+  display: inline-block;
+}
+.artists-text177 {
+  display: inline-block;
+}
+.artists-text186 {
+  display: inline-block;
+  text-align: center;
+}
+.artists-text187 {
+  display: inline-block;
+}
+.artists-text188 {
+  display: inline-block;
+}
+.artists-text189 {
+  display: inline-block;
+}
+.artists-text203 {
+  display: inline-block;
+  text-align: center;
+}
+.artists-text204 {
+  display: inline-block;
+}
+.artists-text205 {
+  display: inline-block;
+}
+.artists-text206 {
+  display: inline-block;
+}
+.artists-text218 {
+  display: inline-block;
+  text-align: center;
+}
+.artists-text219 {
+  display: inline-block;
+}
+.artists-text220 {
+  display: inline-block;
+}
+.artists-text221 {
+  display: inline-block;
+}
+.artists-text233 {
+  display: inline-block;
+  text-align: center;
+}
+.artists-text234 {
+  display: inline-block;
+}
+.artists-text235 {
+  display: inline-block;
+}
+.artists-text236 {
+  display: inline-block;
+}
+.artists-text237 {
+  display: inline-block;
+}
+.artists-text238 {
+  display: inline-block;
+}
+@media(max-width: 767px) {
+  .artists-text107 {
+    text-align: center;
+  }
+  .artists-text108 {
+    text-align: center;
+  }
+}
